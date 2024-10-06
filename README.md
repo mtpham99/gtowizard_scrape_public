@@ -90,7 +90,7 @@ Scraped Ranges Progress:
     - available spots: postflop included
     - effective stack: 25
     - variant: with limps
-- [ ] `mttchipev8m_50bb_withlimps`
+- [x] `mttchipev8m_50bb_withlimps`
     - solutions: mtt
     - format: chipev
     - players: 8
