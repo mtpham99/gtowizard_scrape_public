@@ -97,7 +97,7 @@ Scraped Ranges Progress:
     - available spots: postflop included
     - effective stack: 50
     - variant: with limps
-- [ ] `mttchipev8m_80bb_withlimps`
+- [x] `mttchipev8m_80bb_withlimps`
     - solutions: mtt
     - format: chipev
     - players: 8
@@ -113,7 +113,7 @@ Scraped Ranges Progress:
 1. Download a zip file of ranges from [here](https://github.com/mtpham99/gtowizard_scrape_public/releases/tag/v0.1-ranges-only)
 2. Unzip the downloaded ranges zip file
 3. Goto the `Settings` menu in GTO+/Flopzilla
-4. Click on `Import predef ranges from newdefs2.txt or newdefs3.txt`
+4. Click on `Import preflop ranges from newdefs2.txt or newdefs3.txt`
 5. Toggle the first option to select `pio/monker/other`
 6. Toggle the second option to select `Import into sub-category`
 7. Click on `Import Ranges` and select the folder inside the unzipped ranges folder from `step 2`
