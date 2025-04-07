@@ -125,7 +125,6 @@ Scraped Ranges Progress:
 
 If you have any questions or feedback, send an email to [gtowizard-scraper-help@quantamail.net](mailto:gtowizard-scraper-help@quantamail.net).
 
-
 ### 4.1 Missing Ranges / Preflop Scenarios
 
 If there are any ranges missing, double check that the preflop scenario is available on [GTOWizard](https://app.gtowizard.com/solutions). If the preflop scenario is available on [GTOWizard](https://app.gtowizard.com/solutions) but missing from the scraped ranges, send an email to [gtowizard-scraper-help@quantamail.net](mailto:gtowizard-scraper-help@quantamail.net) detailing the missing scenario.
@@ -134,6 +133,8 @@ The scraping process involves generating desired preflop scenarios, then scrapin
 
 
 ### 4.2 Range / Solution Settings Not Available
+
+***UPDATE: This project is currently on an indefinite hiatus with no plan to upload new ranges in the near future. Requests may still be submitted to the email below, but there is no guarantee requests will be fulfilled.***
 
 If the ranges you are looking for are not in the [list above](#2-available-ranges), you can request them by emailing [gtowizard-scraper-help@quantamail.net](mailto:gtowizard-scraper-help@quantamail.net) with a screenshot of the settings from [GTOWizard](https://app.gtowizard.com/solutions) or specifying the settings like the [list above](#2-available-ranges). If enough people request the same settings, I will add them to the list.
 
